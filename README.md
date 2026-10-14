@@ -3,6 +3,17 @@
 A desktop recreation of the ResQBridge dashboard, built with plain Java Swing
 (no external libraries) so it compiles and runs anywhere a JDK is installed.
 
+
+
+
+
+
+
+
+
+
+
+
 ## Requirements
 - JDK 11 or newer (tested against the language features used; any recent
   JDK — 11, 17, 21 — will work).
