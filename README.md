@@ -5,9 +5,9 @@ A desktop recreation of the ResQBridge dashboard, built with plain Java Swing
 
 
 
-![]()
+![](resqw.png)
 
-![]()
+![](resqw2.png)
 
 
 
